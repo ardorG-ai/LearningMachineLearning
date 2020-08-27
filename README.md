@@ -30,6 +30,8 @@
 
 视频教程：
 
+[机器学习导论 上海交大 张志华](https://www.bilibili.com/video/BV1jt411b76n)
+
 [李宏毅 2020 机器学习深度学习](https://www.bilibili.com/video/BV1JE411g7XF)
 
 [MIT 深度学习导论](https://www.bilibili.com/video/BV1YK411J7Kt)
